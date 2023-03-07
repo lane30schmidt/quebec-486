@@ -1,5 +1,5 @@
 {
-  "name": "potential-octo-disco-quebec2",
+  "name": "quebec-486",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barrycumbie/potential-octo-disco-quebec2.git"
+    "url": "https://github.com/lane30schmidt/quebec-486"
   },
   "keywords": [],
   "author": "",
@@ -24,11 +24,11 @@
   },
   "homepage": "https://github.com/barrycumbie/potential-octo-disco-quebec2#readme",
   "dependencies": {
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.2",
     "dotenv": "^16.0.3",
     "ejs": "^3.1.8",
     "express": "^4.18.2",
-    "mongodb": "^4.10.0",
-    "nodemon": "^2.0.20"
+    "mongodb": "^4.14.0",
+    "nodemon": "^2.0.21"
   }
 }
